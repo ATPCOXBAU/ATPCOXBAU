@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ATPCOXBAU (Carlos Cox)
 - 👀 I’m interested in Web Developtment and Computer Science
-- 🌱 I’m currently learning React,Spring Boot, NextJs and SQL DB
+- 🌱 I’m currently learning React,C# (.Net) , NextJs and SQL DB
 - 📫 How to reach me by email carloscoxbau@gmail.com
 
 <!---
